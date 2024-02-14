@@ -1,4 +1,4 @@
-# Colour_Detection_in_Picture
-This project was made to detect the color and its RGB values in any given picture.
-For the code to work, we need to giver CSV File location and Our Image Location.
-CSV stands for Comma Seperated Values. This file will contain all the colors with their RGB values.
+Color Detection in Pictures
+This project is designed to identify colors and their corresponding RGB values within any provided image. 
+To run the code successfully, simply specify the location of the CSV file containing color information and the path to your image.
+The CSV file contains a list of colors along with their respective RGB values.
